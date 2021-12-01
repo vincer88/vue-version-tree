@@ -1,0 +1,11 @@
+{
+  "name": "vue-version-tree",
+  "version": "0.1.0",
+  "description": "Version tree for VUE JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Roy",
+  "license": "MIT"
+}
